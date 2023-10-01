@@ -43,7 +43,7 @@ body {
   color: black;
 }
 
-.active {
+.navbar > .active {
   background-color: gray;
 }
 
